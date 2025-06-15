@@ -90,7 +90,7 @@ const [isAdding, setIsAdding] = useState(false);
             <tr>
               <th>Name</th>
               <th>Username</th>
-              <th>Email</th>
+              <th>Emailaddress</th>
               <th>Phone</th>
               <th>Website</th>
               <th>Actions</th>
