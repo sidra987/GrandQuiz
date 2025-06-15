@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-app/static/js/main.3644f0b0.js",
-    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.e6c13ad2.css.map": "/my-app/static/css/main.e6c13ad2.css.map",
-    "main.3644f0b0.js.map": "/my-app/static/js/main.3644f0b0.js.map",
-    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/sidra987/GrandQuiz.git/static/css/main.e6c13ad2.css",
+    "main.js": "/sidra987/GrandQuiz.git/static/js/main.2481c4f4.js",
+    "static/js/453.ed3810f9.chunk.js": "/sidra987/GrandQuiz.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/sidra987/GrandQuiz.git/index.html",
+    "main.e6c13ad2.css.map": "/sidra987/GrandQuiz.git/static/css/main.e6c13ad2.css.map",
+    "main.2481c4f4.js.map": "/sidra987/GrandQuiz.git/static/js/main.2481c4f4.js.map",
+    "453.ed3810f9.chunk.js.map": "/sidra987/GrandQuiz.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3644f0b0.js"
+    "static/js/main.2481c4f4.js"
   ]
 }
